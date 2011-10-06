@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ispeech"
   gem.homepage = "http://github.com/lwoodson/ispeech"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "lwoodson@crossroads.com"
+  gem.summary = %Q{A client for ispeech text-to-speech services}
+  gem.description = %Q{A client for ispeech text-to-speech services}
+  gem.email = "lance@webmaneuvers.com"
   gem.authors = ["Lance Woodson"]
   # dependencies defined in Gemfile
 end
